@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there!
+I am Shashank, a Computer Science Engineering sophomore interested in Machine Learning, Web Development, and Artificial Intelligence. I work in the domain of Natural Language Processing.
+I work in many languages, e.g. Python, HTML, CSS, SQL, C, C++, Java, and English, German, French, and Hindi :) 
 <!--
 **shashankshyamupadhyay/shashankshyamupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
