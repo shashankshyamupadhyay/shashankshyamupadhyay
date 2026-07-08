@@ -1,16 +1,19 @@
 # 🏛️ Shashank Upadhyay
 *"Per Angusta Ad Augusta"*
 
-Hi there! 👋 I'm a fifth-semester B.Tech CSE (Data Science) student at Amity University, deeply fascinated by the intersection of language, data, and technology. My ambition is to dive deep into **NLP (Natural Language Processing)** and **Computational Linguistics**. 
+Hi there! I'm a fifth-semester B.Tech CSE (Data Science) student at Amity University, deeply fascinated by the intersection of language, data, and technology. My ambition is to dive deep into **NLP (Natural Language Processing)** and **Computational Linguistics**. 
 
 I am currently focused on mastering foundational programming logic and building data-driven applications from the ground up.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankshyamupadhyay&show_icons=true&theme=radical" alt="Shashank's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankshyamupadhyay&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=shashankshyamupadhyay&theme=radical" alt="GitHub Streak" />
+
+![Shashank's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shashankshyamupadhyay&show_icons=true&theme=radical&hide_rank=true)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shashankshyamupadhyay&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shashankshyamupadhyay&theme=radical)
+
 </div>
 
 ### 🔭 What I'm working on
